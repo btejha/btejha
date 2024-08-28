@@ -1,6 +1,6 @@
 <div style="align: center">
     <h1 align="center">Hi 👋, I'm TEJHA BOLLU</h1>
-    <h3 align="center">A passionate Full stack developer based in Atlanta, GA With 8+ years of experience</h3>
+    <h3 align="center">A passionate Full stack developer based in Atlanta, GA With 10+ years of IT experience</h3>
     </br>
     <hr>
   <div style="margin-left: 50px">
